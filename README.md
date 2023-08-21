@@ -8,27 +8,31 @@ I am a passionate data analyst with a strong background in extracting insights f
 
 ## Projects
 
-### 1. Social Media Dashboard
-Description: This project features a comprehensive social media dashboard that provides a year-to-date overview of Facebook and Instagram metrics. Additionally, it includes pivot tables for all marketing channels, offering deeper insights.
-Tool: Excel
-
-[Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/social_media_dashboard.xlsx)
-
-### 2. Bike Sales Dashboard
-Description: The bike sales dashboard focuses on sales metrics analysis for bike sales. It also incorporates pivot tables to facilitate further exploration of the data.
-Tool: Excel
-
-[Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.xlsx)
-
-### 3. COVID Analysis Project
+### 1. COVID Analysis Project
 Description: This project demonstrates my skills in data manipulation and analysis using SQL. It involves cleaning, manipulating, and analyzing COVID-19 data to derive meaningful insights.
-Tool: Microsoft SQL
+
+**Tool: Microsoft SQL**
 
 [Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/COVID%20Project%20-%20Data%20Exploration.sql)
 
+### 2. Social Media Dashboard
+Description: This project features a comprehensive social media dashboard that provides a year-to-date overview of Facebook and Instagram metrics. Additionally, it includes pivot tables for all marketing channels, offering deeper insights.
+
+**Tool: Excel**
+
+[Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/social_media_dashboard.xlsx)
+
+### 3. Bike Sales Dashboard
+Description: The bike sales dashboard focuses on sales metrics analysis for bike sales. It also incorporates pivot tables to facilitate further exploration of the data.
+
+**Tool: Excel**
+
+[Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/Bike%20Sales%20Dashboard.xlsx)
+
 ### 4. Nashville Housing Project
 Description: In this project, I showcase my ability to handle large datasets using SQL. I present the SQL code employed to clean up a substantial Nashville housing sales dataset for analysis.
-Tool: Microsoft SQL
+
+**Tool: Microsoft SQL**
 
 [Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/NashvilleHousing%20DataCleaning.sql)
 
