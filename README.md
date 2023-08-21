@@ -2,11 +2,11 @@
 
 Welcome to my data analyst portfolio repository! Here you'll find a collection of projects that showcase my skills and expertise in data analysis. Feel free to explore each project and its associated code files.
 
-About Me
+## About Me
 
 I am a passionate data analyst with a strong background in extracting insights from complex datasets. My experience spans various domains, and I thrive on transforming raw data into actionable insights. My skills include data cleaning, manipulation, and visualization, as well as proficiency in Excel and Microsoft SQL.
 
-Projects
+## Projects
 
 1. Social Media Dashboard
 Description: This project features a comprehensive social media dashboard that provides a year-to-date overview of Facebook and Instagram metrics. Additionally, it includes pivot tables for all marketing channels, offering deeper insights.
@@ -32,7 +32,7 @@ Tool: Microsoft SQL
 
 [Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/NashvilleHousing%20DataCleaning.sql)
 
-Contact Me
+## Contact Me
 
 If you're interested in collaborating or have any questions about my projects, feel free to reach out to me at lawson.jamesjr@gmail.com.
 
