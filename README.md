@@ -14,7 +14,7 @@ Tool: Excel
 
 [Link to Code](https://github.com/MarketingwithJimmy/PortfolioProjects/blob/main/social_media_dashboard.xlsx)
 
-#### 2. Bike Sales Dashboard
+### 2. Bike Sales Dashboard
 Description: The bike sales dashboard focuses on sales metrics analysis for bike sales. It also incorporates pivot tables to facilitate further exploration of the data.
 Tool: Excel
 
